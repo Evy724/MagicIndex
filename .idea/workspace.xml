@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71223fd1-41e3-48bb-8005-34aa94d37f55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MagicIndex.kts" afterDir="false" />
+    <list default="true" id="71223fd1-41e3-48bb-8005-34aa94d37f55" name="Default Changelist" comment="MagicIndex.kts">
+      <change afterPath="$PROJECT_DIR$/PowerSet.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Worksheet" />
         <option value="Kotlin Script" />
       </list>
     </option>
@@ -51,6 +52,14 @@
       <option name="presentableId" value="Default" />
       <updated>1652206702731</updated>
     </task>
+    <task id="LOCAL-00001" summary="MagicIndex.kts">
+      <created>1652208930592</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652208930592</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,5 +73,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MagicIndex.kts" />
+    <option name="LAST_COMMIT_MESSAGE" value="MagicIndex.kts" />
   </component>
 </project>
