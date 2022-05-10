@@ -19,11 +19,11 @@ fun BinarySearch(array: Array<Int>, start: Int, end: Int) {
         }
         //Searches the right (upper) half of the array
         else if (midpoint > array[midpoint]) {
-            return search(array, midpoint + 1, end)
+            return BinarySearch(array, midpoint + 1, end)
         }
         //Searches the left (lower) half of the array
         else {
-            return search(array, midpoint - 1, end)
+            return BinarySearch(array, midpoint - 1, end)
         }
     }
     return midpoint
